@@ -1,1 +1,1 @@
-# kinesis_terraform_java
+# kinesis terraform_java
