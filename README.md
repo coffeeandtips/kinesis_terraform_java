@@ -1,1 +1,3 @@
-# kinesis terraform_java.12
+# Criando Kinesis Firehose via Terraform e enviando eventos com Java
+
+Acesse o Post no Blog 
